@@ -1,7 +1,7 @@
-const Home = () => {
+const Home = (props) => {
   return (
     <div>
-      <h1>This is HOME PAGE</h1>
+      <h1>This is the HOME PAGE, user is: {props.username}</h1>
     </div>
   );
 };
