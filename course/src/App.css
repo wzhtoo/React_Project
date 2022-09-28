@@ -10,9 +10,8 @@
 .link_nav a {
   text-decoration: none;
   margin: 15px;
-  padding: 10px 25px;
+  padding: 10px 20px;
   background-color: tomato;
-  cursor: pointer;
   border-radius: 8px;
   color: wheat;
   font-size: 16px;
